@@ -73,3 +73,23 @@
 * 16: Alpaca LoRA: instruct tune LLAMA on consumer hardware ([tweet](https://twitter.com/_akhaliq/status/1636416647518097408), [code](https://github.com/tloen/alpaca-lora))
 * 14: Claude, Anthropic ([blog](https://www.anthropic.com/index/introducing-claude))
 * 14: ChatGLM-6B ([code](https://github.com/THUDM/ChatGLM-6B), [model](https://huggingface.co/THUDM/chatglm-6b))
+
+
+## June 2023
+* 28: LLaMA 2 official prerelease leaks start circulating ([tweet](https://twitter.com/andrewgdotcom/status/1674214740028432384))
+* 27: Falcon-180B announced roadmap & scaling results (TII) — early previews spark interest ([tweet](https://twitter.com/TIIuae/status/1673727073804828672))
+* 26: Playground v2 — Open diffusion model with improved fidelity and realism ([tweet](https://twitter.com/playground_ai/status/1673464096933580800))
+* 23: RecurrentGPT — GPT as a pure state machine capable of infinite-length text generation ([paper](https://arxiv.org/abs/2305.13304))
+* 22: WizardCoder: LLaMA-based code model with Evol-Instruct improvements ([tweet](https://twitter.com/nlpxucan/status/1671897606632677376), [model](https://huggingface.co/WizardLM/WizardCoder-15B-V1.0))
+* 20: Voyager: Embodied lifelong learning agent for Minecraft using GPT-4 ([tweet](https://twitter.com/jimfan_/status/1671079349749133312), [paper](https://arxiv.org/abs/2305.16291), [code](https://github.com/MineDojo/Voyager))
+* 19: LLaVA-1.5: Stronger visual instruction model from modified CLIP + LLaMA ([tweet](https://twitter.com/haotian_zh/status/1670766629000237056), [model](https://huggingface.co/liuhaotian/LLaVA-13b-v1.5))
+* 16: Phi-1: Microsoft releases a small 1.3B code model surpassing larger LLMs in coding tasks ([tweet](https://twitter.com/meet_shah97/status/1669768630915579904), [paper](https://arxiv.org/abs/2306.11644))
+* 13: Gorilla: A large language model specialized in calling APIs reliably ([tweet](https://twitter.com/ShishirPatil_/status/1668673154609047552), [paper](https://arxiv.org/abs/2305.15334))
+* 9: InstructBLIP released — improved multimodal understanding & instruction-following ([tweet](https://twitter.com/salesforce/status/1667161101601382400), [paper](https://arxiv.org/abs/2305.06500), [code](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip))
+* 8: StableStudio — StabilityAI open-sources a full UI for image generation ([tweet](https://twitter.com/StabilityAI/status/1666877864727906306), [code](https://github.com/Stability-AI/StableStudio))
+* 7: xFormers 0.0.20 — massive speedup updates for attention ops ([tweet](https://twitter.com/facebookai/status/1666507398997868544))
+* 6: SAM2 early experiments and extensions start trending in research circles ([tweet](https://twitter.com/KaushikEle/status/1666144608422940673))
+* 5: GPT-Engineer: Auto-generate full codebases from natural language specs ([repo](https://github.com/AntonOsika/gpt-engineer))
+* 3: ChatGPT official iOS app expands worldwide ([tweet](https://twitter.com/OpenAI/status/1664723003414857728))
+* 1: Hugging Face Transformers v4.30 adds LLaMA adapter, FlashAttention-2, and large performance upgrades ([tweet](https://twitter.com/huggingface/status/1664314340174462976))
+
